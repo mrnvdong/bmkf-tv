@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+
+    <!-- Deep Obsidian Cinema Background -->
+    <path
+        android:fillColor="#0B0D14"
+        android:pathData="M0,0h320v180h-320z" />
+
+    <!-- Subtle Cinema Crimson Glow Strip -->
+    <path
+        android:fillColor="#1A1F33"
+        android:pathData="M0,136 L320,108 L320,180 L0,180 Z" />
+
+    <path
+        android:fillColor="#E50914"
+        android:pathData="M24,42 h10 v96 h-10 z" />
+
+    <!-- Play Triangle Badge -->
+    <path
+        android:fillColor="#E50914"
+        android:pathData="M56,52 L110,90 L56,128 Z" />
+
+    <!-- Gold Cinema Accent Frame -->
+    <path
+        android:fillColor="#F5C518"
+        android:pathData="M134,58 h152 v6 h-152 z" />
+
+    <!-- Stylized BMKF Bars -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M134,76 h26 v12 h-26 z M134,94 h38 v12 h-38 z M180,76 h46 v30 h-12 v-18 h-22 v18 h-12 z M236,76 h50 v10 h-38 v6 h30 v10 h-30 v4 h-12 z" />
+
+    <!-- Subtitle Accent Line -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M134,116 h110 v4 h-110 z" />
+
+    <!-- Four Source Indicator Dots -->
+    <path
+        android:fillColor="#E50914"
+        android:pathData="M258,118 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M270,118 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+    <path
+        android:fillColor="#F5C518"
+        android:pathData="M282,118 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M294,118 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+</vector>

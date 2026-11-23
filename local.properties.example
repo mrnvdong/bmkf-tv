@@ -1,0 +1,7 @@
+# Copy to local.properties (gitignored) and fill in your local Android SDK path
+# plus any optional personal Stremio/API manifest URLs you want pre-filled on build.
+# You can also leave these blank and configure them directly inside the TV app's Settings screen.
+sdk.dir=/path/to/Android/sdk
+# bmkf.showbox.manifestUrl=https://showbox.codiv.dpdns.org/<your-encoded-config>/manifest.json
+# bmkf.highfly.manifestUrl=https://sports.highfly.dev/<your-token>/manifest.json
+# bmkf.khophim.apiKey=pk_live_your_key_here
